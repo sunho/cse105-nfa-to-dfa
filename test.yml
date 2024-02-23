@@ -1,0 +1,8 @@
+alphabet: ['0','1']
+states: ['q0']
+accept: ['q0']
+init: ['q0']
+transitions:
+  q0:
+    '1': ['q0']
+
